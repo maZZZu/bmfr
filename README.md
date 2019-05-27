@@ -1,9 +1,13 @@
 # Blockwise Multi-Order Feature Regression for Real-Time Path Tracing Reconstruction
 
 This is the code used in the paper:
+
 "Blockwise Multi-Order Feature Regression for Real-Time Path Tracing Reconstruction".
+
 by Koskela M., Immonen K., Mäkitalo M., Foi A., Viitanen T., Jääskeläinen P., 
-Kultala H., and Takala J.
+Kultala H., and Takala J. 
+
+Virtual reality and Graphics Architectures (VGA) group, Tampere University, http://www.tuni.fi/vga/
 
 # Datasets
 
